@@ -17,6 +17,10 @@ Notes for **Forge**, **reForge** and **Forge Classic (Neo)**. Write down prompts
 
 Extensions → Install from URL, or copy the `sd-webui-notebook` folder into `extensions/`. Restart the WebUI.
 
+```bash
+git clone https://github.com/sca-285/sd-forge-notebook.git
+```
+
 ## Markdown notes
 
 - Click anywhere on a formatted note to edit it. The cursor lands on the line you clicked.
