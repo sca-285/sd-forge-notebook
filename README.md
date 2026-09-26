@@ -183,15 +183,6 @@ Settings → Notebook:
 
 When the WebUI runs with a login (`--gradio-auth`), only logged-in users can read or write notes.
 
-## Tests
-
-`python tests/test_store.py` checks:
-
-- the two storages: names, saving, conflicts, versions, deleting, search, moving old notes into place;
-- the rich-text cleaner and conversions, and copying between Markdown and rich text;
-- import and export, including writing into folders;
-- the Markdown preview and links between notes;
-- pins and tags, snippets, pictures, templates, version differences, backups, and reading parameters from a picture.
 
 ## Acknowledgements
 
