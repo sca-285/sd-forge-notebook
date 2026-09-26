@@ -1,4 +1,4 @@
-# Notebook
+# Stable Diffusion Forge Notebook
 
 Notes for **Forge**, **reForge** and **Forge Classic (Neo)**. Write down prompts, seeds, settings and what worked, without leaving the WebUI.
 
