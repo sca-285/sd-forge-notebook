@@ -92,7 +92,7 @@ When the WebUI runs with a login (`--gradio-auth`), only logged-in users can rea
 - [Zetaphor/sd-library-notes](https://github.com/Zetaphor/sd-library-notes) showed Markdown notes inside the WebUI first.
 - The click-to-edit Markdown notes follow ComfyUI's Markdown note node.
 - The preview uses [markdown-it-py](https://github.com/executablebooks/markdown-it-py), which comes with Gradio.
-- Thanks also to **Claude**, Anthropic's AI assistant, for help building the extension.
+- Thanks also to **Claude** for help building the extension.
 
 ## Licence
 
